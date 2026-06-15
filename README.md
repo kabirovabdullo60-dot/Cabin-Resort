@@ -43,11 +43,3 @@
 * **Footer:** Қисми поёнии сайт бо сохтори 5-сутуна ва ҷойгоҳи шабакаҳои иҷтимоӣ.
 
 ---
-
-## 🛠️ Чӣ тавр лоиҳаро оғоз кунем (Installation)
-
-Барои оғози лоиҳа дар компютери худ қадамҳои зеринро иҷро кунед:
-
-1. Репозиторийро клон кунед:
-   ```bash
-   git clone [https://github.com/yourusername/cootels-landing.git](https://github.com/yourusername/cootels-landing.git)
